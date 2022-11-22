@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭 I’m currently working: On a full-time job and some other different kind of jobs as a independant contractor, consultant and a freelancer. <br>👯 I’m looking to collaborate on anything on React or JavaScript.<br>🤝 I’m looking for help with nothing.<br>🌱 I’m currently learning Web 3.0.<br>💬 Ask me about Trains, Music, Detective Movies, Books, Keyboards, Pianos etc.<br>
+🔭 I’m currently working on a full-time job and some other different kind of jobs as a independant contractor, consultant and a freelancer. <br>👯 I’m looking to collaborate on anything on React or JavaScript.<br>🤝 I’m looking for help with nothing.<br>🌱 I’m currently learning Web 3.0.<br>💬 Ask me about Trains, Music, Detective Movies, Books, Keyboards, Pianos etc.<br>
 
 
 ## 🌐 Socials
